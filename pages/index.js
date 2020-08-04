@@ -18,6 +18,7 @@ const Homepage = ({ t }) => (
           to about us
         </button>
       </Link>
+      <div>test cache</div>
     </div>
   </>
 )
