@@ -11,12 +11,12 @@ const Homepage = ({ t }) => (
       >
         {t('change-locale')}
       </button>
-      <Link href='/about-us'>
-        <button
+      <Link href='/about-us' passHref>
+        <a
           type='button'
         >
           to about us
-        </button>
+        </a>
       </Link>
       <div>test cache</div>
     </div>
