@@ -1,0 +1,29 @@
+{
+  "name": "next-i18n-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zephyrmathias/next-i18n-serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zephyrmathias/next-i18n-serverless/issues"
+  },
+  "homepage": "https://github.com/zephyrmathias/next-i18n-serverless#readme",
+  "dependencies": {
+    "next": "^9.5.1",
+    "next-i18next": "^6.0.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
